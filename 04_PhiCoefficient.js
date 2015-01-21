@@ -11,8 +11,10 @@ console.log(phi([76, 9, 4, 1]);
 /* This represents a diagram like this:
 	-------------------
 	|   76   |    9   |
-	|		 |		  |
+	|No P    |Pizza	  |
+	|No S	 |No S	  |
 	-------------------
 	|	 4	 |	  1	  |
-	|		 |		  |
+	|No P    |Pizza	  |
+	|Squirrel|Squirrel|
 	-------------------  */
